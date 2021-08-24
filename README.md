@@ -1,5 +1,5 @@
 # Producer_Consumer_Program
-A program that implements producers and consumers to demonstrate multi-threaded processes and how mutex semaphores can be used.
+A program that implements producers and consumers threads to demonstrate multi-threaded processes and how mutex semaphores can be used.
 
 This compiled c code implements multiple producer and consumer threads. When running the code, the command line takes in 3 arguments. 
 These are length of time the program should run, the number of producer threads, and the number of consumer threads.
